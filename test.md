@@ -27,7 +27,7 @@ This is probably the easiest option. Don't even need to maintain the ordering ma
 
 While we're testing, here is an image, should be centered.
 
-!["test image alt text"](https://github.com/tharros-defense/vincent-docs/blob/main/assets/cisa_cve.png)
+!["test image alt text"](https://github.com/tharros-defense/vincent-docs/blob/main/assets/cisa_cvd.png)
 
 !["cvd cisa"](assets/cisa_cvd.png)
 
