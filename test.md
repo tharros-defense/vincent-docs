@@ -27,11 +27,11 @@ This is probably the easiest option. Don't even need to maintain the ordering ma
 
 While we're testing, here is an image, should be centered.
 
-!["test image alt text"](https://github.com/tharros-defense/vincent-docs/blob/main/assets/cisa_cvd.png)
+!["test image alt text"](https://github.com/tharros-defense/vincent-docs/blob/main/assets/cisa_cve.png)
 
-!["cvd cisa"](assets/cisa_cvd.png)
+!["cvd cisa"](assets/cisa_cve.png)
 
-<img style="border:1px solid black;" src="assets/cisa_cvd.png" align="center" width="150" alt="Jaya Baloo" />
+<img style="border:1px solid black;" src="assets/cisa_cve.png" align="center" width="150" alt="Jaya Baloo" />
 
 [MediaWiki](https://www.mediawiki.org/wiki/Help:Lists)
 
