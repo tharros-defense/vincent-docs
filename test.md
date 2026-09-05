@@ -35,7 +35,7 @@ While we're testing, here is an image, should be centered.
 
 [MediaWiki](https://www.mediawiki.org/wiki/Help:Lists)
 
-Same "incorrect" style ordering as GitHub markdown.
+(#aname)Same "incorrect" style ordering as GitHub markdown.
 
 # Dog
 ## German Shepherd
