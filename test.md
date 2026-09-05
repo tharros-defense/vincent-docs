@@ -1,5 +1,7 @@
 GitHub discussion/issue markdown example, unfortunately this is handled differently by the wiki markdown, and the discussion/issue rendering doesn't handle lists beyond 2 levels?
 
+Jump to [aname](#aname) test.
+
 1. Show me SADP containers
 a. For a given SADP
 b. For a date (published, updated) range
@@ -35,7 +37,7 @@ While we're testing, here is an image, should be centered.
 
 [MediaWiki](https://www.mediawiki.org/wiki/Help:Lists)
 
-(#aname)Same "incorrect" style ordering as GitHub markdown.
+Same "incorrect" style ordering as GitHub markdown.
 
 # Dog
 ## German Shepherd
@@ -49,7 +51,7 @@ While we're testing, here is an image, should be centered.
 
 [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/)
 
-Ignores style sometimes.
+(#aname)Ignores style sometimes.
 
 [arabic]
 . Step 1
