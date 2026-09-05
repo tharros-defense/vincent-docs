@@ -51,7 +51,7 @@ Same "incorrect" style ordering as GitHub markdown.
 
 [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/)
 
-(#aname)Ignores style sometimes.
+<a name="aname"></a>Ignores style sometimes.
 
 [arabic]
 . Step 1
